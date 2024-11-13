@@ -1,0 +1,484 @@
+[
+  {
+    "id": "rec43w3ipXvP28vouge",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#f15025",
+        "#222"
+      ],
+      "featured": true,
+      "price": 12.99,
+      "name": "Earl Grey",
+      "image": [
+        {
+          "id": "attcvDDMikF6G2iNi1",
+          "width": 1000,
+          "height": 639,
+          "url": "https://marquis4484.github.io/tealaxation_images/Earl%20Grey.jpg",
+          "filename": "product-1.jpeg",
+          "size": 62864,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Earl%20Grey.jpg",
+              "width": 56,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Earl%20Grey.jpg",
+              "width": 801,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Earl%20Grey.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "rec4f2RIftFCb7ash",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#f15025",
+        "#222"
+      ],
+      "price": 20.99,
+      "name": "Peachy Keen",
+      "image": [
+        {
+          "id": "attP2cUyxU35M1zbw2",
+          "width": 1000,
+          "height": 1500,
+          "url": "https://marquis4484.github.io/tealaxation_images/Peachy%20Keen.jpg",
+          "filename": "product-2.jpeg",
+          "size": 119274,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Peachy%20Keen.jpg",
+              "width": 24,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Peachy%20Keen.jpg",
+              "width": 512,
+              "height": 768
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Peachy%20Keen.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "rec8kkCmSiMkbkikoho",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#222",
+        "#0000ff",
+        "#f15025"
+      ],
+      "price": 25.99,
+      "name": "English Breakfast",
+      "image": [
+        {
+          "id": "attIieysyB9zQmQo93",
+          "width": 1000,
+          "height": 667,
+          "url": "https://marquis4484.github.io/tealaxation_images/English%20Breakfast.jpg",
+          "filename": "product-3.jpeg",
+          "size": 49641,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/English%20Breakfast.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/English%20Breakfast.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/English%20Breakfast.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recBohCqQsot4Q4IIly",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#ff0000",
+        "#0000ff"
+      ],
+      "price": 18.99,
+      "name": "Jade Song",
+      "image": [
+        {
+          "id": "attXaEED3KJcY2cjY4",
+          "width": 1280,
+          "height": 1891,
+          "url": "https://marquis4484.github.io/tealaxation_images/Jade%20Song.jpg",
+          "filename": "product-4.jpg",
+          "size": 203105,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Jade%20Song.jpg",
+              "width": 24,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Jade%20Song.jpg",
+              "width": 512,
+              "height": 756
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Jade%20Song.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recDG1JRZnbpRHpoyo",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#ff0000",
+        "#f15025"
+      ],
+      "price": 6.99,
+      "name": "Kenyan Purple Leaf",
+      "image": [
+        {
+          "id": "attxkKEEgmBnutpwI5",
+          "width": 1280,
+          "height": 1858,
+          "url": "https://marquis4484.github.io/tealaxation_images/Kenyan%20Purple%20Leaf.jpg",
+          "filename": "product-5.jpg",
+          "size": 281908,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Kenyan%20Purple%20Leaf.jpg",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Kenyan%20Purple%20Leaf.jpg",
+              "width": 512,
+              "height": 743
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Kenyan%20Purple%20Leaf.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recNWGyP7kjFhSqw33d",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#0000ff"
+      ],
+      "price": 16.99,
+      "name": "Lapsang Souchong",
+      "image": [
+        {
+          "id": "att5iyl4TJvd3oepN6",
+          "width": 1000,
+          "height": 625,
+          "url": "https://marquis4484.github.io/tealaxation_images/Lapsang%20Souchong.jpg",
+          "filename": "product-6.jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Lapsang%20Souchong.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Lapsang%20Souchong.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Lapsang%20Souchong.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recZEougL5bbY4AExD",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#00ff00",
+        "#f15025",
+        "#ff0000"
+      ],
+      "price": 8.99,
+      "name": "Milk Oolong",
+      "image": [
+        {
+          "id": "attDj1C6GxJMsJ1he7",
+          "width": 1280,
+          "height": 720,
+          "url": "https://marquis4484.github.io/tealaxation_images/Milk%20Oolong.jpg",
+          "filename": "product-7.jpg",
+          "size": 162415,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Milk%20Oolong.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Milk%20Oolong.jpg",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Milk%20Oolong.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recjMK1jgTb2ld7savy",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#f15025"
+      ],
+      "price": 21.99,
+      "name": "Vanilla Velvet",
+      "image": [
+        {
+          "id": "attiwrd7gSI1oGxRK8",
+          "width": 1280,
+          "height": 720,
+          "url": "https://marquis4484.github.io/tealaxation_images/Vanilla%20Velvet.jpg",
+          "filename": "product-8.jpg",
+          "size": 178908,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Vanilla%20Velvet.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Vanilla%20Velvet.jpg",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Vanilla%20Velvet.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recmg2a1ctaEJNZhue",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#00ff00",
+        "#0000ff"
+      ],
+      "featured": true,
+      "price": 9.95,
+      "name": "White Peony",
+      "image": [
+        {
+          "id": "attqutUt355traBeS9",
+          "width": 1280,
+          "height": 846,
+          "url": "https://marquis4484.github.io/tealaxation_images/White%20Peony.jpg",
+          "filename": "product-9.jpg",
+          "size": 196312,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/White%20Peony.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/White%20Peony.jpg",
+              "width": 775,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/White%20Peony.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recvKMNR3YFw0bEt3mp",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#ff0000",
+        "#00ff00"
+      ],
+      "featured": true,
+      "price": 5.98,
+      "name": "Winter Forest",
+      "image": [
+        {
+          "id": "atttOzyYI8P1XfJu810",
+          "width": 1280,
+          "height": 924,
+          "url": "https://marquis4484.github.io/tealaxation_images/Winter%20Forest.jpg",
+          "filename": "product-10.jpg",
+          "size": 195175,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Winter%20Forest.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Winter%20Forest.jpg",
+              "width": 709,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Winter%20Forest.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recxaXFy5IW539sgMi",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#00ff00",
+        "#ff0000"
+      ],
+      "price": 10.99,
+      "name": "Cinnamon",
+      "image": [
+        {
+          "id": "attjWNxk7KKzcLPDx11",
+          "width": 1000,
+          "height": 652,
+          "url": "https://marquis4484.github.io/tealaxation_images/Cinnamon.jpg",
+          "filename": "product-11.jpeg",
+          "size": 61946,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Cinnamon.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Cinnamon.jpg",
+              "width": 785,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Cinnamon.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recyqtRglGNGtO4Q555",
+    "fields": {
+      "company": "tealaxation",
+      "colors": [
+        "#222"
+      ],
+      "price": 9.99,
+      "name": "Jasmin Yin Cloud",
+      "image": [
+        {
+          "id": "attnZHyyOUTBzJ1ZD12",
+          "width": 1280,
+          "height": 960,
+          "url": "https://marquis4484.github.io/tealaxation_images/Jasmine%20Yin%20Cloud%20Tea.jpg",
+          "filename": "product-12.jpg",
+          "size": 189559,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Jasmine%20Yin%20Cloud%20Tea.jpg",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Jasmine%20Yin%20Cloud%20Tea.jpg",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "https://marquis4484.github.io/tealaxation_images/Jasmine%20Yin%20Cloud%20Tea.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  }
+]
